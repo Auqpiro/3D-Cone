@@ -1,6 +1,6 @@
 import { useState } from "react";
-import Form from "./From";
-import Scene from "./Scene";
+import Form from "./Form.jsx";
+import Scene from "./Scene.jsx";
 
 function App() {
   const [vertices, setVertices] = useState(null);

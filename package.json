@@ -1,0 +1,26 @@
+{
+  "name": "cone",
+  "version": "1.0.0",
+  "description": "3D-cone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Auqpiro/3D-Cone.git"
+  },
+  "keywords": [
+    "SPA",
+    "WebGL",
+    "Three.js",
+    "Node",
+    "React"
+  ],
+  "author": "auqpiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Auqpiro/3D-Cone/issues"
+  },
+  "homepage": "https://github.com/Auqpiro/3D-Cone#readme"
+}
